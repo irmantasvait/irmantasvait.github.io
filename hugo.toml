@@ -1,0 +1,4 @@
+baseURL = 'https://irmantasvait.github.io/'
+languageCode = 'en-us'
+title = 'Irmantas website'
+theme = "hello-friend"
